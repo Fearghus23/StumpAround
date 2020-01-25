@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "StumpAround",
+    "slug": "StumpAround",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#001a13"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "StumpAround is a user-friendly mobile application for Pacific Northwest nature enthusiasts.  Create a profile, then view, save and express your thoughts about beautiful hikes around the region. Upload and share information about your favorite spots with the StumpAround community. Discuss, hike, stump!"
+  }
+}
